@@ -1,0 +1,5 @@
+Jovem estudante de Economia e entusiasta da computação científica.
+Durante a faculdade estive pensando se era possível unir ambas as áreas, foi aí que encontrei a ciência de dados. Meus primeiros algoritmos foram rodados na linguagem de programação Python.
+No ano de 2020, desenvolvi um projeto de Business Intelligence para uma microempresa.
+Hoje estudo e trabalho com banco de dados durante a semana, e aos finais de semana estudo Engenharia de Machine Learning.
+Meu objetivo a longo prazo é tornar-me economista, gestor e Engenheiro de Machine Learning.
